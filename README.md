@@ -1,5 +1,3 @@
-Problem Statement:
-
 Decision Tree
  
 Assignment
